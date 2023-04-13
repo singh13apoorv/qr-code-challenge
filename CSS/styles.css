@@ -15,12 +15,16 @@ body {
     border-radius: 10px;
 }
 
+h1 {
+    font-size: 2rem;
+}
+
 p {
-    font-size: 15px;
+    font-size: 0.9375rem;
 }
 
 .watermark {
-    font-size: 12px;
+    font-size: 0.75rem;
 }
 
 .attribution img {
